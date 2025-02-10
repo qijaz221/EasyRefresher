@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/qijaz/Documents/EasyRefresher/Example/build/Debug-iphonesimulator/EasyRefresher.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/qijaz/Documents/EasyRefresher/Example/build/Debug-iphonesimulator/EasyRefresher.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "EasyRefresher-Swift.h",
+      'external-contents': "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -35,4 +35,7 @@ public protocol UserInterfacable {
     
     /// A enum value indicating whether the refresher impact occurred when will refresh.
     var impactFeedbackMode: ImpactFeedbackMode { get set }
+    
+    
+    var downArrowIcon: UIImage? { get set }
 }

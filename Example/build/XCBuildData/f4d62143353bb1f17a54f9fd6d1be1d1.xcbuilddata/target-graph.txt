@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'Pods-EasyRefresher_Tests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-EasyRefresher_Example' in project 'Pods'
+Target 'Pods-EasyRefresher_Example' in project 'Pods'
+➜ Explicit dependency on target 'EasyRefresher' in project 'Pods'
+Target 'EasyRefresher' in project 'Pods'
+➜ Explicit dependency on target 'EasyRefresher-EasyRefresher' in project 'Pods'
+Target 'EasyRefresher-EasyRefresher' in project 'Pods' (no dependencies)

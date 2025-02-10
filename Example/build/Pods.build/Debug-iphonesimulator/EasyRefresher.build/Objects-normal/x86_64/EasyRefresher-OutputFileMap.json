@@ -1,0 +1,168 @@
+{
+  "" : {
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/EasyRefresher-master.dia",
+    "emit-module-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/EasyRefresher-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/EasyRefresher-master-emit-module.dia",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/EasyRefresher-master.swiftdeps"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/AppearanceRefreshFooter.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AppearanceRefreshFooter~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/AutoRefreshFooter.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/AutoRefreshFooter~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/HasStateTitle.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/HasStateTitle~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/Localized.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Localized~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/Refresh.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refresh~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/RefreshComponent.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshComponent~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/RefreshFooter.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshFooter~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/RefreshHeader.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshHeader~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/RefreshStateful.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStateful~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/RefreshStatefulView.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshStatefulView~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/RefreshTrailer.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshTrailer~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/RefreshView.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/RefreshView~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/Refreshable.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/Refreshable~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/ScrollViewObservation.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/ScrollViewObservation~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/UIScrollView+Refresh.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UIScrollView+Refresh~partial.swiftmodule"
+  },
+  "/Users/qijaz/Documents/EasyRefresher/EasyRefresher/Classes/UserInterfacable.swift" : {
+    "const-values" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable.swiftconstvalues",
+    "dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable.d",
+    "diagnostics" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable.o",
+    "llvm-bc" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable.bc",
+    "object" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable.o",
+    "swift-dependencies" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable.swiftdeps",
+    "swiftmodule" : "/Users/qijaz/Documents/EasyRefresher/Example/build/Pods.build/Debug-iphonesimulator/EasyRefresher.build/Objects-normal/x86_64/UserInterfacable~partial.swiftmodule"
+  }
+}

@@ -10,6 +10,17 @@ import UIKit
 
 open class RefreshView: UIView, HasStateTitle, UserInterfacable {
     
+    
+    public var downArrowIcon: UIImage? {
+        get {
+            return arrowImageView.image
+        }
+        set {
+            arrowImageView.image = newValue
+        }
+    }
+    
+    
     open var activityIndicatorStyle: UIActivityIndicatorView.Style {
         get { activityIndicator.style }
         set { activityIndicator.style = newValue }
@@ -27,7 +38,7 @@ open class RefreshView: UIView, HasStateTitle, UserInterfacable {
     
     lazy var stackView: UIStackView = { buildStackView() }()
     
-    lazy var arrowImageView: UIImageView = {
+    public lazy var arrowImageView: UIImageView = {
         let image = UIImage(named: "refresh_arrow_down", in: .current, compatibleWith: nil)
         let arrowImageView = UIImageView(image: image)
         arrowImageView.isHidden = true
@@ -35,7 +46,7 @@ open class RefreshView: UIView, HasStateTitle, UserInterfacable {
         return arrowImageView
     }()
     
-    lazy var activityIndicator: UIActivityIndicatorView = {
+    public lazy var activityIndicator: UIActivityIndicatorView = {
         if #available(iOS 13.0, *) {
             return UIActivityIndicatorView(style: .medium)
         } else {
@@ -43,7 +54,7 @@ open class RefreshView: UIView, HasStateTitle, UserInterfacable {
         }
     }()
     
-    lazy var stateLabel: UILabel = {
+    public lazy var stateLabel: UILabel = {
         let stateLabel = UILabel()
         stateLabel.font = UIFont.systemFont(ofSize: 14)
         stateLabel.textAlignment = .center

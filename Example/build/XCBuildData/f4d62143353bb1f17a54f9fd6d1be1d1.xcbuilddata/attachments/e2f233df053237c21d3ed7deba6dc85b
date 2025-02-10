@@ -1,0 +1,11 @@
+framework module EasyRefresher {
+  umbrella header "EasyRefresher-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module EasyRefresher.Swift {
+  header "EasyRefresher-Swift.h"
+  requires objc
+}

@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_EasyRefresher_ExampleVersionString[];
+ extern const double Pods_EasyRefresher_ExampleVersionNumber;
+
+ const unsigned char Pods_EasyRefresher_ExampleVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_EasyRefresher_Example  PROJECT:Pods-1" "\n";
+ const double Pods_EasyRefresher_ExampleVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,10 @@
+framework module EasyRefresher {
+  umbrella header "EasyRefresher-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module EasyRefresher.__Swift {
+  exclude header "EasyRefresher-Swift.h"
+}

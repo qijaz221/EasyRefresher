@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         
         tableView.refresh.header = RefreshHeader(delegate: self)
         
+        tableView.refresh.header.downArrowIcon = UIImage(named: "arrow_down")
         tableView.refresh.header.automaticallyChangeAlpha = false
         tableView.refresh.header.impactFeedbackMode = .on(style: .medium)
         
